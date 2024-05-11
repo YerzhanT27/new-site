@@ -4,7 +4,7 @@ body{
 } 
 .hero{ 
     text-align: center; 
-    padding: 50px 0; 
+    padding: 7.194244604316546vh 0; 
     background-color: #000000; 
     color: #ffffff; 
     height: 100vh; 
@@ -16,63 +16,63 @@ body{
     align-items: center; 
     justify-content: center; 
     display: flex; 
-    margin: 0 15px; 
-    padding: 0 100px; 
+    margin: 0 2.158273381294964vh; 
+    padding: 0 14.388489208633093vh; 
     width: 50%; 
 } 
 h1{ 
     font-family: "Whisper", cursive;
-    line-height: 120px; 
-    margin: 50px 0; 
-    font-size: 7rem; 
+    line-height: 17.26618705035971vh; 
+    margin: 7.194244604316546vh 0; 
+    font-size: 16.115107913669064vh; 
 } 
 h2{ 
     font-family: "Dancing Script", cursive;
-    font-size: 1.5rem; 
+    font-size: 3.4532374100719423vh; 
     margin: 0; 
     font-weight: 400; 
 } 
 .textMid{ 
-    font-size: 2rem; 
+    font-size: 4.60431654676259vh; 
     text-align: left; 
 } 
 h3{ 
-    font-size: 2rem; 
+    font-size: 4.60431654676259vh; 
     margin: 0; 
     font-weight: 400; 
 } 
  
 .photo{ 
-    width: 300px;    
+    width: 43.16546762589928vh;    
     border-radius: 100%;  
 } 
 .prizrak{ 
     z-index: 5; 
-    top: 500px; 
-    right:300px; 
+    top: 71.94244604316546vh; 
+    right:43.16546762589928vh; 
     position: absolute; 
-    width: 1px; 
-    height: 1px; 
+    width: 0.14388489208633093vh; 
+    height: 0.14388489208633093vh; 
     background-color: white; 
-    box-shadow: 0 0 300px 100px white; 
+    box-shadow: 0 0 43.16546762589928vh 14.388489208633093vh white; 
 } 
  
 .logo{ 
-    width: 50px; 
+    width: 7.194244604316546vh; 
     margin: 0;
     background-color: #ffffff;
 } 
 nav{ 
     background-color: #000000;
-    height: 60px;
+    height: 8.633093525179856vh;
     display: flex; 
     align-items: center; 
     padding: 1% 20%;
     justify-content: space-around;
 } 
 .link{ 
-    font-size: 30px; 
-    margin-left: 50px; 
+    font-size: 4.316546762589928vh; 
+    margin-left: 7.194244604316546vh; 
     cursor: pointer; 
     transition-duration: 0.2s; 
 } 
@@ -82,9 +82,9 @@ nav{
 .right{ 
     position: absolute; 
     right: 20%; 
-    border: 2px solid black; 
-    padding: 10px 30px; 
-    border-radius: 30px; 
+    border: 0.28776978417266186vh solid black; 
+    padding: 1.4388489208633093vh 4.316546762589928vh; 
+    border-radius: 4.316546762589928vh; 
 } 
 .right:hover{ 
     background-color: black; 
@@ -115,56 +115,56 @@ nav{
 }
 .upbox{ 
     display: flex; 
-    margin-top: -70px; 
+    margin-top: -4.501942446043165vh; 
     width: 70%; 
     height: 100vh; 
     position: absolute; 
-    border-radius: 30px; 
+    border-radius: 4.316546762589928vh; 
 } 
 .card{ 
     background-image: url("https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2020/02/Usign-Gradients-Featured-Image.jpg"); 
     background-color: #282828; 
-    border-radius: 30px; 
-    border: 1px solid rgb(199, 199, 199); 
-    padding: 50px; 
+    border-radius: 4.316546762589928vh; 
+    border: 0.14388489208633093vh solid rgb(199, 199, 199); 
+    padding: 7.194244604316546vh; 
     width: 33%; 
     text-align: center; 
     transition-duration: 0.5s; 
-    margin: 0 15px; 
+    margin: 0 2.158273381294964vh; 
 } 
 .card-project1{ 
     background-image: url("https://www.analytixlabs.co.in/blog/wp-content/uploads/2020/06/image-1-20-1-3.jpg"); 
     background-color: #282828; 
-    border-radius: 30px; 
-    border: 1px solid rgb(0, 0, 0); 
-    padding: 50px; 
+    border-radius: 4.316546762589928vh; 
+    border: 0.14388489208633093vh solid rgb(0, 0, 0); 
+    padding: 7.194244604316546vh; 
     width: 33%; 
     text-align: center; 
     transition-duration: 0.5s; 
-    margin: 0 15px; 
+    margin: 0 2.158273381294964vh; 
 } 
 .card-project2{ 
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6VDivKpZFZSJCXxoydcBIm620MkMetlBvis-LAUaPGOKqB2PgKSrB7qNYbO8Jp-6jAKI&usqp=CAU"); 
     background-color: #282828; 
-    border-radius: 30px; 
-    border: 1px solid rgb(199, 199, 199); 
-    padding: 50px; 
+    border-radius: 4.316546762589928vh; 
+    border: 0.14388489208633093vh solid rgb(199, 199, 199); 
+    padding: 7.194244604316546vh; 
     width: 33%; 
     text-align: center; 
     transition-duration: 0.5s; 
-    margin: 0 15px; 
+    margin: 0 2.158273381294964vh; 
 } 
 .btn-new {
-    padding: 5px 8px;
-    font-size: 30px; 
-    margin-left: 50px; 
+    padding: 0.7194244604316546vh 1.1510791366906474vh;
+    font-size: 4.316546762589928vh; 
+    margin-left: 7.194244604316546vh; 
     cursor: pointer; 
     text-align: center;
     transition: 0.5s;
     background-size: 500%;
     color: white;
-    box-shadow: 0 0 20px #eee;
-    border-radius: 200px;
+    box-shadow: 0 0 2.8776978417266186vh #eee;
+    border-radius: 28.776978417266186vh;
     background-image: linear-gradient(to right, #003CC5 0%, #0B63F6 51%, #003CC5 100%);
 }
 
@@ -173,23 +173,23 @@ nav{
 }
 @keyframes slideme {
     0% {
-      left: -30px;
-      margin-left: 0px;
+      left: -4.316546762589928vh;
+      margin-left: 0vh;
     }
     30% {
       left: 110%;
-      margin-left: 80px;
+      margin-left: 11.510791366906474vh;
     }
     100% {
       left: 110%;
-      margin-left: 80px;
+      margin-left: 11.510791366906474vh;
     }
   }
   
   .btn-new1 {
     overflow: hidden;
     position: relative;
-    width: 50px; 
+    width: 7.194244604316546vh; 
     margin: 0;
     background-color: #ffffff;
   }
@@ -197,14 +197,14 @@ nav{
   .btn-new1:after {
     content: "";
     display: block;
-    width: 30px;
-    height: 200px;
-    margin-left: 60px;
+    width: 4.316546762589928vh;
+    height: 28.776978417266186vh;
+    margin-left: 8.633093525179856vh;
     background: #fff;
     opacity: 0.5;
     position: absolute;
-    left: -40px;
-    top: -100px;
+    left: -5.755395683453237vh;
+    top: -14.388489208633093vh;
     z-index: 1;
     transform: rotate(45deg);
     transition: all 0.1s;
@@ -217,7 +217,7 @@ nav{
   .create-line {
     background: linear-gradient(to left, lime 28px, red 77%, cyan);
     width: 90%;
-    height: 3px;
+    height: 0.4316546762589928vh;
     border-radius: 20%;
     margin-left: auto;
     margin-right: auto;
