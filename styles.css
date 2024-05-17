@@ -227,7 +227,7 @@ nav{
 }
 .skill-korobka{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 .skills{
     font-size: 7vh;
